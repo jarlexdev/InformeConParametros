@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbdatos\\rptempresa.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\rptempresa.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|c:\\users\\jarlex\\documents\\vbdatos\\vbdatos\\vbdatos\\verempresas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\verempresas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbdatos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbdatos\\verempresas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\verempresas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbdatos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbdatos\\frmservicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\frmservicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rptEmpresa.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\rptEmpresa.rdlc",
+              "RelativeDocumentMoniker": "vbDatos\\rptEmpresa.rdlc",
+              "ToolTip": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\rptEmpresa.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "vbDatos\\rptEmpresa.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-04-01T19:18:46.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "verEmpresas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\verEmpresas.vb",
+              "RelativeDocumentMoniker": "vbDatos\\verEmpresas.vb",
+              "ToolTip": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\verEmpresas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "vbDatos\\verEmpresas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T01:36:49.433Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\Form1.vb",
+              "RelativeDocumentMoniker": "vbDatos\\Form1.vb",
+              "ToolTip": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "vbDatos\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-12T00:59:34.711Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "verEmpresas.vb",
+              "DocumentMoniker": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\verEmpresas.vb",
+              "RelativeDocumentMoniker": "vbDatos\\verEmpresas.vb",
+              "ToolTip": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\verEmpresas.vb",
+              "RelativeToolTip": "vbDatos\\verEmpresas.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T01:49:01.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\Form1.vb",
+              "RelativeDocumentMoniker": "vbDatos\\Form1.vb",
+              "ToolTip": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\Form1.vb",
+              "RelativeToolTip": "vbDatos\\Form1.vb",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-12T02:11:17.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmServicio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\frmServicio.vb",
+              "RelativeDocumentMoniker": "vbDatos\\frmServicio.vb",
+              "ToolTip": "C:\\Users\\jarlex\\Documents\\vbDatos\\vbDatos\\vbDatos\\frmServicio.vb [Dise\u00F1o]",
+              "RelativeToolTip": "vbDatos\\frmServicio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-19T02:06:30.94Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
